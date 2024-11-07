@@ -32,6 +32,12 @@ To get started with this project, you'll need Python installed on your system al
 4.Dataset:
    df = pd.read_csv(r'C: C:\Users\vanaj\Downloads\Nidhi py/Diwali Sales Data.csv', encoding='unicode_escape')
 
+ 5. Results
+Below are sample visualizations generated from the analysis:
+   **Gender-based Sales Trends**: Bar chart showcasing sales by gender.
+   **State-wise Sales**: Map of sales distribution across different states.
+
+
    
  
    
